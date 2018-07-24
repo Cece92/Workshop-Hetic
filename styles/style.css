@@ -1,5 +1,5 @@
 h1{
-  font-size: 70px;
+  font-size: 30px;
   color: brown;
   font-style: normal;
   text-align: center;
@@ -18,8 +18,9 @@ body{
   margin:auto;
   background: black;
 
-}
+
+
+
 .couleur{
   color: white;
-  
 }
