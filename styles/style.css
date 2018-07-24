@@ -11,3 +11,15 @@ body{
   background: no-repeat url("https://i.redditmedia.com/HNszScx1ps609P4C4270w5fr8BwXX9EMnmf8uUURJfM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=2c5905bf005146d5453d885ffe191d16");
   background-size: cover;
 }
+
+.container{
+  width: 960px;
+  height: 960px;
+  margin:auto;
+  background: black;
+
+}
+.couleur{
+  color: white;
+  
+}
