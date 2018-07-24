@@ -7,6 +7,7 @@ h1{
 
 }
 
-.container{
-  background: no-repeat url("C:\Users\3D1\Documents\GitHub\Workshop-Hetic\images")
+body{
+  background: no-repeat url("https://i.redditmedia.com/HNszScx1ps609P4C4270w5fr8BwXX9EMnmf8uUURJfM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=2c5905bf005146d5453d885ffe191d16");
+  background-size: cover;
 }
